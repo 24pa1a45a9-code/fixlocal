@@ -1,0 +1,6 @@
+{
+  "name": "FixLocal",
+  "description": "Civic issue reporting, interactive community map, and local impact tracking dashboard.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
